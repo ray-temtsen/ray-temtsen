@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Ray and I love solving problems...
 
 <!--
 **ray-temtsen/ray-temtsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
