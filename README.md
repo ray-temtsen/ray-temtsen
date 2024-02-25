@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub page! I'm a seasoned backend engineer with a passion for crafting robust and efficient solutions. My journey in the realm of technology began at Bingham University, where I delved into the intricacies of computer science. Since then, I've honed my skills and earned a master's degree in Security from the prestigious Nigerian Defense Academy.<br><br>My professional journey has taken me through the dynamic landscape of financial technology, where I've contributed to the development of secure and scalable systems. I've also played a pivotal role in the creation of content management applications, showcasing my versatility in building diverse software solutions.<br><br>Specializing in Node.js and Nest.js, I thrive on architecting and implementing backend solutions that seamlessly integrate with frontend applications. My expertise extends to crafting multi-tenant systems, demonstrating a deep understanding of complex infrastructure.
+Welcome to my GitHub page! I'm a seasoned backend engineer with a passion for crafting robust and efficient solutions. I thrive on architecting and implementing backend solutions that seamlessly integrate with frontend applications. My expertise extends to crafting Fintech, content mangement and multi-tenant systems.
 
 
 ## 🌐 Socials:
