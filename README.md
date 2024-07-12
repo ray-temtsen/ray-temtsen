@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend engineer with a passion for crafting robust and efficient solutions. I thrive on architecting and implementing backend solutions that seamlessly integrate with frontend applications. My expertise extends to crafting Fintech, content mangement and multi-tenant systems. Previous account -https://github.com/raymond-temtsen
+I'm a backend engineer with a passion for crafting robust and efficient solutions. I thrive on architecting and implementing backend solutions that seamlessly integrate with frontend applications. My expertise extends to crafting Fintech, content mangement and multi-tenant systems. Old account -https://github.com/raymond-temtsen
 
 
 ## 🌐 Socials:
